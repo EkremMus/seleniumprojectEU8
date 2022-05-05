@@ -14,6 +14,8 @@ public class T6_Hello {
 
         driver.get("https://facebook.com");
 
+        //step1
+
         driver.close();
     }
 }
