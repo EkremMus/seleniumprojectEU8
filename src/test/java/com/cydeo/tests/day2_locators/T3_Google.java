@@ -29,7 +29,7 @@ public class T3_Google {
             System.out.println("Title verification Failed!");
         }
 
-
+        driver.close();
 
 
     }

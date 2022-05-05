@@ -41,8 +41,7 @@ public class T2_LinkText {
             System.out.println("Title verification2 Failed!");
         }
 
-
-        //driver.close();
+        driver.close();
 
 
 
