@@ -12,6 +12,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class T5_SimpleDropdowns {
+
     WebDriver driver;
 
     @BeforeMethod
